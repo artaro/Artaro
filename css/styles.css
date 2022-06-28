@@ -1,0 +1,52 @@
+body {
+    margin: 0; 
+    text-align: center;
+    font-family: 'Lexend', sans-serif;
+    background-color: #E4F9F5;
+    
+}
+
+h1 {
+    margin: 0 auto 0 auto;
+
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+h2 {
+    margin: 0 auto 0 auto;
+    
+    font-family: 'Baloo 2', cursive;
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+}
+
+.skill-img {
+    width: 200px;
+    height: 200px;
+}
+
+.contact-img {
+    width: 200px;
+    height: 200px;
+}
+
+.cloud {
+    width: 30%;
+    height: 20%;
+}
+
+.mountain {
+    width: 100%;
+}
+
+.top-container {
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
